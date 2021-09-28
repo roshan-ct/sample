@@ -1,4 +1,4 @@
-[
+
         {
             'id':101,
             'firstName' : `Jack`,
@@ -22,5 +22,4 @@
             'firstName' : `Alex`,
             'lastName' : `Mercer`,
             'salary' : 23000
-        },
-    ]
+        }
