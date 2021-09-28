@@ -17,21 +17,12 @@
       "firstName" : "Ryan",
       "lastName" : "Gosling",
       "salary" : 19000
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
     },
     {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
+      "id" : 104,
+      "firstName" : "Alex",
+      "lastName" : "Mercer",
+      "salary" : 40000
     }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+  ]
 }
