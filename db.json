@@ -1,29 +1,34 @@
 {
-    "posts":[
-        {
-            "id" : 101,
-            "firstName" : "Jack",
-            "lastName" : "Sparow",
-            "salary" : 23000
-        },
-        {
-            "id" : 102,
-            "firstName" : "Chris",
-            "lastName" : "Evans",
-            "salary" : 33000
-        },
-        {
-            "id" : 103,
-            "firstName" : "Ryan",
-            "lastName" : "Gosling",
-            "salary" : 19000
-        },
-        {
-            "id" : 104,
-            "firstName" : "Alex",
-            "lastName" : "Mercer",
-            "salary" : 40000
-        }  
-        ]
-
+  "posts": [
+    {
+      "id": 1,
+      "title": "Roshan",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
 }
